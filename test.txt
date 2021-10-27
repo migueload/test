@@ -1,7 +1,4 @@
 test este es un nuevo cambio
-<<<<<<< HEAD
 en una rama adicional
 y otra linea
-=======
 para una rama 2
->>>>>>> e57422e04c48f6b414c0b86377a244ce989836ed
